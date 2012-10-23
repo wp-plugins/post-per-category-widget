@@ -32,7 +32,7 @@ You can use the built-in installer, or you can install the plugin manually.
 
 == Screenshots ==
 
-1. POST PER CATEGORY WIDGET in sidebar.
+1. post per category widget in sidebar
 
 
 == Changelog ==
