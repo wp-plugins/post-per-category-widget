@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/*
+ * Post Per Category  *
+ * Version: 1.0
+ * (c) Copyright 2012, zykhan
+ *
+ */
+
+body {
+	margin: 1em 3em;
+	font-family: Tahoma, Genevam, sans-serif;
+      }
+   	.pd{
+    width:auto;
+	padding:5px;
+     	}
+	.pd ul{
+    width:auto;
+     }	
+	.pd ul li{
+    width:100%;
+	display: inline-block;
+	list-style:none;
+     }
+	.pd img{
+	float:left;
+	padding:0 6px 10px;
+	height:34px;
+     	}	
